@@ -150,4 +150,4 @@ dmypy.json
 .pyre/
 
 # Spec-Kit related files
-.specify
+.specify/
