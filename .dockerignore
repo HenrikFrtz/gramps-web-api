@@ -132,3 +132,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Development files
+.specify/
+CLAUDE.md
+tests/
